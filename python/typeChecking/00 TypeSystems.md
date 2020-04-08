@@ -1,4 +1,4 @@
-# Python Type Checking(Guide) -- 20200408
+# Python Type Checking(Guide) -- 20200409
 - Reference: https://realpython.com/python-type-checking/
 
 ## Contents
